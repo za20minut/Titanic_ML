@@ -9,7 +9,7 @@ import seaborn as sns
 import kagglehub
 
 
-path = "/home/mateusz/Desktop/maszynprojekt"
+path = "change this"
 print("Path to dataset files:", path)
 
 
